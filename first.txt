@@ -1,3 +1,6 @@
 Blabla...
 Plain text.
 More to follow?
+Yes, but this change will be lost by doing git reset after git add but before git commit!
+No! It wasn't lost: the file was unmodified - just unstaged.
+OK: add and commit this.
