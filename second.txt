@@ -1,0 +1,5 @@
+I'm going to add this new file then reset the index.
+Will the file be lost?
+I think not...
+Wasn't lost.
+Add and commit.
